@@ -1,10 +1,17 @@
 RStats - Detailed player stats for SA-MP
 
 # ABOUT
-RStats is a free project (SA-MP Filterscript and Web interface) for SA-MP which allows you to get detailled statistics from your players. With the well designed database of RStats you can exctract a lot of information about players (time they spend each day on the server for example), use your imagination ;-)
+RStats is a free project (SA-MP Filterscript and Web interface) for SA-MP which allows you to get detailled statistics from your players and keeps a history of it. With the well designed database of RStats you can exctract a lot of information about players (time they spend each day on the server for example), use your imagination ;-)
+
+@ Main features
+- Detailled players stats (connects, disonnects, spawns, vehicle usage, kills, deaths, etc.).
+- Well designed database.
+- Player stat dialog box.
+- Random stats messages.
+- Awesome web interface coming soon !
 
 @ Information
-The web interface is still in developement, but you can use the filterscript and work on your own scripts.
+The web interface is still in developement, but you can use the filterscript and collect stats to use for the coming panel.
 
 @ Author
 This project was developped by Rafael 'R@f' Keramidas <rafael@keramid.as>.
@@ -13,13 +20,13 @@ This project was developped by Rafael 'R@f' Keramidas <rafael@keramid.as>.
 If you like this project or make a commercial use for it, please donate via paypal at rafael.keramidas@gmail.com. Of course you don't have to but it would be nice if you do :)
 
 @ Credits/Thanks
-None for the moment (coming).
+BlueG : For his MySQL Plugin.
 
 # LICENCE
 This project is released under GPLv3. Read the GPLv3.txt for more information.
 
 # REQUIRED (SA-MP)
-- BlueG's MySQL Plugin (R6)
+- BlueG's MySQL Plugin (R6) : http://forum.sa-mp.com/showthread.php?t=56564
 - A MySQL Database
 
 # REQUIRED (Web Server)
@@ -46,7 +53,7 @@ http://i.imgur.com/KIBDL.jpg
 None
 
 # DATABASE
-A view on the MySQL Database design : 
+A view on the MySQL Database design : http://i.imgur.com/Qyuay.png
 
 # SUPPORT
 I don't give ANY support for the installation or usage of this script, so please don't contact me for that !!
