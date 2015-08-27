@@ -1,3 +1,5 @@
+NOTE: This project is old and not maintained anymore. 
+
 RStats - Detailed player stats for SA-MP
 
 # ABOUT
